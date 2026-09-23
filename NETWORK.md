@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Project Tracker
 
-**ai-project-tracker** is part of the Zion Tech Group app network (630+ apps).
+Intelligent project management and forecasting.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-project-master](https://github.com/Zion-support/zion-project-master) · [zion-ai-meeting-to-roadmap](https://github.com/Zion-support/zion-ai-meeting-to-roadmap) · [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) · [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator)
 
-## Related apps
-- [zion-project-master](https://github.com/Zion-support/zion-project-master) — Project master app
-- [zion-ai-meeting-to-roadmap](https://github.com/Zion-support/zion-ai-meeting-to-roadmap) — Meeting outcomes to roadmap
-- [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator) — Workflow automation
-- [zion-ai-release-radar](https://github.com/Zion-support/zion-ai-release-radar) — Release tracking
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
