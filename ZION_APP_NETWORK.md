@@ -17,3 +17,9 @@ AI Project Tracker is part of the **Zion Tech Group AI App Network** — 600+ AI
 
 ---
 © 2026 Zion Tech Group
+
+
+## 🧰 Batch 65 — AI Engineering & Productivity Toolkit (Sep 27, 2026)
+Part of Batch 65 with: [AI Deep Research](https://ziontechgroup.com/ai-deep-research/) · [AI Prompt Engineer](https://ziontechgroup.com/ai-prompt-engineer/) · [AI ML Pipeline](https://ziontechgroup.com/ai-ml-pipeline/) · [AI Code Migration](https://ziontechgroup.com/ai-code-migration/) · [AI Code Formatter](https://ziontechgroup.com/ai-code-formatter/) · [AI Chart Builder](https://ziontechgroup.com/ai-chart-builder/) · [AI Document Summarizer](https://ziontechgroup.com/ai-document-summarizer/) · [AI Project Tracker](https://ziontechgroup.com/ai-project-tracker/)
+- Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH65.md
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch65-sept27.html
